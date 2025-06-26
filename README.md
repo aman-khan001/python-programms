@@ -66,11 +66,6 @@ python-programs/
 * Web Scraping
 * Mini Projects
 
-### 📊 DSA (Data Structures & Algorithms)
-
-* Searching & Sorting
-* Stack, Queue, Linked List
-* Trees, Graphs, Recursion
 
 ### 🧮 Math Programs
 
