@@ -113,8 +113,12 @@ Want to add your own logic or challenge? Feel free to fork and submit a pull req
 
 ---
 
-## ⭐ Support
 
-If you find this useful, please **give it a ⭐** and **share with fellow learners!** 🧑‍🤝‍🧑
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="32" height="32"> Show Some Love!  
+If you find this useful, consider giving it a ⭐ and following me! 🚀  
 
-Happy Learning! 🐍✨
+[![GitHub followers](https://img.shields.io/github/followers/aman-khan001?label=Follow%20Me&style=social)](https://github.com/aman-khan001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman-khan001/)  
+
+   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200px"> Happy Learning! 🐍
+
